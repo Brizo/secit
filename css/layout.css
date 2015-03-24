@@ -1,0 +1,19 @@
+.col1, .col2, .col3, .cols {
+	float:left
+}
+.cols {
+	width:230px
+}
+/* index.html */
+/* index-1.html */
+/* index-2.html */
+/* index-3.html */
+#page_4 .cols {
+	width:120px
+}
+#page_4 .pad_left1 {
+	padding-left:5px
+}
+/* index-4.html */
+/* index-5.html */
+/* index-6.html */

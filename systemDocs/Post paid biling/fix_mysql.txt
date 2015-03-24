@@ -1,0 +1,17 @@
+ netstat -a | more
+
+mysql> SHOW GLOBAL VARIABLES LIKE 'PORT';
+
+mysql -u root -p
+
+USE mysql;
+SELECT user,host FROM user;
+
+GRANT ALL PRIVILEGES ON *.* TO root@my_ip IDENTIFIED BY ‘root_password‘ WITH GRANT OPTION;
+
+GRANT ALL PRIVILEGES ON *.* TO root@my_ip IDENTIFIED BY ‘root_password‘ WITH GRANT OPTION;
+
+mysql -v -u root -p
+
+
+iptables -L -n
